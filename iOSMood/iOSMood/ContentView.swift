@@ -1,0 +1,24 @@
+//
+//  ContentView.swift
+//  iOSMood
+//
+//  Created by Phan Thành Ngân on 2024/01/13.
+//
+
+import SwiftUI
+
+struct ContentView: View {
+    var body: some View {
+        VStack {
+            Image(systemName: "globe")
+                .imageScale(.large)
+                .foregroundStyle(.red)
+            Text("Hello, SwiftUI!")
+        }
+        .padding()
+    }
+}
+
+#Preview {
+    ContentView()
+}
