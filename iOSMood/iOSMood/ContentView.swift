@@ -49,7 +49,7 @@ struct ContentView: View {
                 .font(.title)
                 .padding()
         }
-        .padding()//apply default padding
+        .padding()//apply default padding 2233
     }
 }
 
