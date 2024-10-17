@@ -37,7 +37,7 @@ struct ContentView: View {
                 if bmiVal < 18.5 {
                     classification = "Too Gầy"
                 } else {
-                    classification = "Too Mập"
+                    classification = "Too Mập 2"
                 }
             }, label: {
                 Text("Go").padding(4)
